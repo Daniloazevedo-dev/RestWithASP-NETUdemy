@@ -1,8 +1,5 @@
 ﻿using RestASP_NET.Model;
 using RestASP_NET.Model.Context;
-using System;
-using System.Reflection;
-using System.Reflection.Metadata.Ecma335;
 
 namespace RestASP_NET.Services.Implementations
 {
